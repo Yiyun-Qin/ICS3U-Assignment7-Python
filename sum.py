@@ -23,7 +23,7 @@ def main():
     print("Please enter 1 number at a time. Enter -1.0 to end.")
 
     # process & output
-    print
+    print("")
     while True:
         a_number_string = input("Please enter a number: ")
         try:
