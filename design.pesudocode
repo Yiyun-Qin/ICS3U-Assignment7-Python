@@ -1,0 +1,4 @@
+GET number_list
+FOR a_number in number_list:
+    total = total + a_number
+RETURN total
